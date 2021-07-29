@@ -1,0 +1,5 @@
+This is a test of a line.       # fasle
+The cat is sleeping.            # true
+That is a very nice hat.        # true
+This test is at line four.      # true， the blank is deemed to a characters
+at ten o'clock we'll go home.   # fasle
